@@ -42,9 +42,6 @@ Smart Contact Manager is a full-stack Spring Boot web application that helps use
 4. Open in browser  
    `http://localhost:8080`
 
-## Screenshots
-
-(Add screenshots or GIFs here to showcase the UI)
 
 ## License
 
